@@ -4,7 +4,7 @@
     4  python3 --version
     5  python3
     6  git --version
-    7  git clone https://github.com/DePaul-deBettencourt/DePaul-deBettencourt.github.io.git orgresume
+    7  git clone https://github.com/j-sanchez16/j-sanchez16.github.io.git orgresume
     8  cd orgresume
     9  history
    10  history >pyhistory.txt
